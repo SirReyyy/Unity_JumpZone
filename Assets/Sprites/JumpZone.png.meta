@@ -1,0 +1,382 @@
+fileFormatVersion: 2
+guid: 3a2932f980041374f80e5492d272d6ea
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7408807263484748281
+    second: JumpZone
+  - first:
+      213: -4333196242677477305
+    second: JumpZone_1
+  - first:
+      213: -7377034661297695530
+    second: JumpZone_2
+  - first:
+      213: -6262482729463749107
+    second: JumpZone_3
+  - first:
+      213: -2135362220632451571
+    second: JumpZone_4
+  - first:
+      213: -2285978971549927477
+    second: JumpZone_5
+  - first:
+      213: -1161440919583162562
+    second: JumpZone_6
+  - first:
+      213: 1987778457426426410
+    second: JumpZone_7
+  - first:
+      213: 8049479184937676771
+    second: GameOver
+  - first:
+      213: 1016265727331726440
+    second: JumpZone_9
+  - first:
+      213: -4960027880047867916
+    second: JumpZone_10
+  - first:
+      213: 3632478454758254973
+    second: JumpZone_11
+  - first:
+      213: -314530350511013644
+    second: JumpZone_12
+  - first:
+      213: -4870842389513995400
+    second: JumpZone_13
+  - first:
+      213: -776910903860037143
+    second: JumpZone_14
+  - first:
+      213: -4703773674790968721
+    second: JumpZone_15
+  - first:
+      213: -8958048322386430757
+    second: restartBtn
+  - first:
+      213: 1524940097219544240
+    second: jumpBtn
+  - first:
+      213: 2870812839450814077
+    second: JumpZone_18
+  - first:
+      213: -6329124447544660314
+    second: JumpZone_19
+  - first:
+      213: 5531075031469225489
+    second: JumpZone_20
+  - first:
+      213: 3159122286281515734
+    second: backBtn
+  - first:
+      213: -6438615811579132908
+    second: playBtn
+  - first:
+      213: 6971023251376246052
+    second: JumpZone_23
+  - first:
+      213: -8357663984148419275
+    second: JumpZone_24
+  - first:
+      213: -4520153422556736509
+    second: JumpZone_25
+  - first:
+      213: -7996830199304254405
+    second: againBtn
+  - first:
+      213: 1400088449344177943
+    second: homeBtn
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: JumpZone
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 160
+        width: 188
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70e58a22c01ae2990800000000000000
+      internalID: -7408807263484748281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameOver
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 120
+        width: 228
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ef6c15bbae75bf60800000000000000
+      internalID: 8049479184937676771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: restartBtn
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 72
+        width: 124
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd47f57338e9ea380800000000000000
+      internalID: -8958048322386430757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jumpBtn
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 80
+        width: 108
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b4458e50fca92510800000000000000
+      internalID: 1524940097219544240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: backBtn
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 40
+        width: 76
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d264db4bf477db20800000000000000
+      internalID: 3159122286281515734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playBtn
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 40
+        width: 108
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 414cc99580175a6a0800000000000000
+      internalID: -6438615811579132908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: againBtn
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 12
+        width: 92
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3c8a518d4d850190800000000000000
+      internalID: -7996830199304254405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: homeBtn
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 8
+        width: 76
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7178945d60d1e6310800000000000000
+      internalID: 1400088449344177943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      backBtn: 3159122286281515734
+      againBtn: -7996830199304254405
+      jumpBtn: 1524940097219544240
+      GameOver: 8049479184937676771
+      restartBtn: -8958048322386430757
+      playBtn: -6438615811579132908
+      JumpZone: -7408807263484748281
+      homeBtn: 1400088449344177943
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
